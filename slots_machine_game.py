@@ -1,10 +1,10 @@
 import random
 
-symbols = ['🍒', '🍎', '💵']
+symbols = ['🍒', '🍎', '💲']
 
 while True:
     coins_available = 100
-    print('Welcome to the slots game!!!')
+    print('🎰Welcome to the slots game!!!')
     while coins_available > 0:
         print(f'You have {coins_available} coins available.')
         bet = int(input('Bet amount: '))
