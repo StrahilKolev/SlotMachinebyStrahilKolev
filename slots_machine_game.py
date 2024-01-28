@@ -1,6 +1,6 @@
 import random
 
-symbols = ['#', '*', '@']
+symbols = ['🍒', '🍎', '💵']
 
 while True:
     coins_available = 100
