@@ -1,2 +1,3 @@
-# SlotMachinebyStrahilKolev
-A simple console game Slot Machine
+# Slot Machine Game by Strahil Kolev
+
+A simple console game Slot Machine using the Random module
